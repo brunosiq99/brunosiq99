@@ -12,7 +12,7 @@
     </a>  
 </div>  
 <br>
-<div style="display:inline_block, text-align:center">
+<div style="display:inline_block">
   <img height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30rem" width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
