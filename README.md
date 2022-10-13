@@ -22,7 +22,7 @@
 <a href="https://mail.google.com/mail/u/brunoSiqDev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="discordapp.com/users/BrunoSiqueira#2379"><img src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://br.linkedin.com/in/brunosiq99"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/brunosiq99/brunosiq99/blob/main/Curr%C3%ADculo%20-%20Bruno%20Siqueira%20Reghin%20Da%20Silva.pdf"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-%2523cc4444?style=for-the-badge"></a>
+<a href="https://github.com/brunosiq99/brunosiq99/blob/main/Bruno%20Siqueira.pdf"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-%2523cc4444?style=for-the-badge"></a>
 
 
 
