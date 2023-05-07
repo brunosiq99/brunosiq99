@@ -1,6 +1,6 @@
 
 ## Hi There, I'm Bruno Siqueira 👋 <br>
-- 😄 I'm 23 years old. I've started studying Programming this year on <a href='https://github.com/alura-cursos'>Alura</a> <br>
+- 😄 I'm 23 years old. I'm studying Programming<br>
 - 📚 I'm currently studying JavaScript focused on Front-End development <br>
 
 
